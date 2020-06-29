@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/web-dev/static/css/main.5fb469c6.chunk.css",
+    "main.js": "/web-dev/static/js/main.6a3e40c3.chunk.js",
+    "main.js.map": "/web-dev/static/js/main.6a3e40c3.chunk.js.map",
+    "runtime-main.js": "/web-dev/static/js/runtime-main.4135409b.js",
+    "runtime-main.js.map": "/web-dev/static/js/runtime-main.4135409b.js.map",
+    "static/js/2.dd5ade11.chunk.js": "/web-dev/static/js/2.dd5ade11.chunk.js",
+    "static/js/2.dd5ade11.chunk.js.map": "/web-dev/static/js/2.dd5ade11.chunk.js.map",
+    "index.html": "/web-dev/index.html",
+    "precache-manifest.efb0215faf777b044299437fbfd9375e.js": "/web-dev/precache-manifest.efb0215faf777b044299437fbfd9375e.js",
+    "service-worker.js": "/web-dev/service-worker.js",
+    "static/css/main.5fb469c6.chunk.css.map": "/web-dev/static/css/main.5fb469c6.chunk.css.map",
+    "static/js/2.dd5ade11.chunk.js.LICENSE.txt": "/web-dev/static/js/2.dd5ade11.chunk.js.LICENSE.txt",
+    "static/media/data-science.png": "/web-dev/static/media/data-science.a7482d22.png",
+    "static/media/dm.png": "/web-dev/static/media/dm.5731ccf4.png",
+    "static/media/logo.svg": "/web-dev/static/media/logo.5d5d9eef.svg",
+    "static/media/model-1.jpeg": "/web-dev/static/media/model-1.37775526.jpeg",
+    "static/media/seo.png": "/web-dev/static/media/seo.33f060f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4135409b.js",
+    "static/js/2.dd5ade11.chunk.js",
+    "static/css/main.5fb469c6.chunk.css",
+    "static/js/main.6a3e40c3.chunk.js"
+  ]
+}
